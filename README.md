@@ -3,6 +3,6 @@
 **This sis bold tekst**
 
 line 1
-Line 2
-Line 3
+line 2
+line 3
 
